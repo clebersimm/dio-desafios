@@ -1,0 +1,9 @@
+@workspace /new criar uma roleta de jogo de roleta com velocidade mantendo a rotação com uma bolinha no meio seguindo as leis da gravidade da terra, podendo utilizar html, javascript, canvas, css para fazer a apresentação
+
+Esta com erro de main.js:4 Uncaught TypeError: Cannot read properties of null (reading 'getContext')
+at main.js:4:20
+
+@workspace /fix cannot red properties of null (reading 'getcontext') at main.js:4:20
+
+the ball must bounce in the limits of the whell
+
