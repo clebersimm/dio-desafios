@@ -5,9 +5,9 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wex", "wex", "{840824CE-F0FD-40D5-A742-BD097256B4ED}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docker", "docker", "{74B1CBDC-8E6A-44DB-B3AD-F697B52682CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "wex\estacionamento\DesafioFundamentos.csproj", "{C3BA2404-D2C8-435C-BCF1-4246B4372299}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "wex\docker\estacionamento\DesafioFundamentos.csproj", "{C3BA2404-D2C8-435C-BCF1-4246B4372299}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioProjetoHospedagem", "wex\hospedagem\DesafioProjetoHospedagem.csproj", "{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +19,10 @@ Global
 		{C3BA2404-D2C8-435C-BCF1-4246B4372299}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3BA2404-D2C8-435C-BCF1-4246B4372299}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3BA2404-D2C8-435C-BCF1-4246B4372299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +30,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{74B1CBDC-8E6A-44DB-B3AD-F697B52682CC} = {840824CE-F0FD-40D5-A742-BD097256B4ED}
 		{C3BA2404-D2C8-435C-BCF1-4246B4372299} = {74B1CBDC-8E6A-44DB-B3AD-F697B52682CC}
+		{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94} = {840824CE-F0FD-40D5-A742-BD097256B4ED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8DC461CF-C597-436C-88A3-214FD8CE0ADD}
