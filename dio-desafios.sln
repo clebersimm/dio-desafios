@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "wex\e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioProjetoHospedagem", "wex\hospedagem\DesafioProjetoHospedagem.csproj", "{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioPOO", "wex\smartphone\DesafioPOO.csproj", "{85FDE411-C819-48B4-B7B7-E7CAA216D9BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85FDE411-C819-48B4-B7B7-E7CAA216D9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85FDE411-C819-48B4-B7B7-E7CAA216D9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85FDE411-C819-48B4-B7B7-E7CAA216D9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85FDE411-C819-48B4-B7B7-E7CAA216D9BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -31,6 +37,7 @@ Global
 		{74B1CBDC-8E6A-44DB-B3AD-F697B52682CC} = {840824CE-F0FD-40D5-A742-BD097256B4ED}
 		{C3BA2404-D2C8-435C-BCF1-4246B4372299} = {74B1CBDC-8E6A-44DB-B3AD-F697B52682CC}
 		{93D98EF1-3FBE-4CC6-8CF8-26C99699AA94} = {840824CE-F0FD-40D5-A742-BD097256B4ED}
+		{85FDE411-C819-48B4-B7B7-E7CAA216D9BF} = {840824CE-F0FD-40D5-A742-BD097256B4ED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8DC461CF-C597-436C-88A3-214FD8CE0ADD}
